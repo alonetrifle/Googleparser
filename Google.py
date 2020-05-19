@@ -1,5 +1,4 @@
 import requests
-import time
 import re
 from bs4 import BeautifulSoup
 class Google:
